@@ -14,7 +14,8 @@
     "removeComments": true,
     "sourceMap": true,
     "strict": true,
-    "lib": ["ES2019"],
+    "lib": ["ES2019", "DOM"],
+    "types": ["ip6addr","jest","netmask","node","sinon"],
     "target": "ES2019"
   },
   "exclude": [
