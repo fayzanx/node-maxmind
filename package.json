@@ -45,9 +45,6 @@
     "ts-jest": "29.3.4",
     "typescript": "5.8.3"
   },
-  "resolutions": {
-    "**/mmdb-lib": "github:fayzanx/mmdb-lib#handle-large-files"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/runk/node-maxmind.git"
