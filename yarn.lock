@@ -3492,13 +3492,13 @@ mkdirp@^3.0.1:
   resolved "https://registry.yarnpkg.com/mkdirp/-/mkdirp-3.0.1.tgz#e44e4c5607fb279c168241713cc6e0fea9adcb50"
   integrity sha512-+NsyUUAZDmo6YVHzL/stxSu3t9YS1iljliy3BSDrXJ/dkn1KYdmtZODGGjLcc9XLgVVpH4KshHB8XmZgMhaBXg==
 
+"mmdb-lib@git+https://github.com/fayzanx/mmdb-lib.git#handle-large-files":
+  version "3.0.0-handle-large-files"
+  resolved "git+https://github.com/fayzanx/mmdb-lib.git#027845cdfae08fbbd231aa93cae598f4981af754"
+
 "mmdb-lib@github:fayzanx/mmdb-lib#handle-large-files":
   version "3.0.0-handle-large-files"
   resolved "https://codeload.github.com/fayzanx/mmdb-lib/tar.gz/027845cdfae08fbbd231aa93cae598f4981af754"
-
-"mmdb-lib@https://github.com/fayzanx/mmdb-lib.git#handle-large-files":
-  version "3.0.0-handle-large-files"
-  resolved "https://github.com/fayzanx/mmdb-lib.git#027845cdfae08fbbd231aa93cae598f4981af754"
 
 ms@^2.1.2, ms@^2.1.3:
   version "2.1.3"

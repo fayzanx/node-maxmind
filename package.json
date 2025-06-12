@@ -27,7 +27,7 @@
     "Mariano Facundo Scigliano @MarianoFacundoArch"
   ],
   "dependencies": {
-    "mmdb-lib": "https://github.com/fayzanx/mmdb-lib.git#handle-large-files",
+    "mmdb-lib": "git+https://github.com/fayzanx/mmdb-lib.git#handle-large-files",
     "tiny-lru": "11.3.2"
   },
   "devDependencies": {
