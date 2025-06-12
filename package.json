@@ -27,7 +27,7 @@
     "Mariano Facundo Scigliano @MarianoFacundoArch"
   ],
   "dependencies": {
-    "mmdb-lib": "2.2.1",
+    "mmdb-lib": "https://github.com/fayzanx/mmdb-lib.git#handle-large-files",
     "tiny-lru": "11.3.2"
   },
   "devDependencies": {
@@ -47,7 +47,7 @@
   },
   "resolutions": {
     "**/mmdb-lib": "github:fayzanx/mmdb-lib#handle-large-files"
-},
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/runk/node-maxmind.git"
